@@ -1,10 +1,15 @@
 ﻿# Changelog
 
-All notable changes documented here.
+All notable changes to this project will be documented here.
 
-## [1.0.0] - 2026-10-10
+## [Unreleased]
+
+## [1.0.0] - 2026-04-09
 
 ### Added
-- Initial project setup
-- Core features implemented
-- Documentation added
+- Initial release
+- Core application structure
+- User authentication
+- Database integration
+- Responsive UI
+- API endpoints
