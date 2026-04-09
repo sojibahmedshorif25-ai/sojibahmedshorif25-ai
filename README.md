@@ -1,12 +1,33 @@
 <h1 align="center">Hi 👋, I'm Sojib Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Aspiring Web Developer from Bangladesh</h3>
 
-- 📫 How to reach me **sojibahmedshorif25@gmail.com**
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/5060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="5060" height="30" width="40" /></a>
+---
+
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on web projects  
+- 🌱 I’m learning React, Next.js & Backend  
+- ⚡ I love coding  
+
+---
+
+### 🚀 Skills:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 🌐 Connect with me:
+<p>
+<a href="https://github.com/sojibahmedshorif25-ai">GitHub</a> |
+<a href="https://www.linkedin.com/in/sojib-ahmed-shorif">LinkedIn</a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sojibahmedshorif25-ai&show_icons=true" />
+</p>
