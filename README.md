@@ -1,33 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sojib Ahmed</h1>
-<h3 align="center">Aspiring Web Developer from Bangladesh</h3>
+# Hi, I'm Sojib Ahmed 👋
+### Frontend Web Developer / MERN Stack Learner
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+A passionate frontend web developer focused on building responsive, interactive, and user-friendly web applications. Currently building projects with modern Javascript frameworks and learning full-stack integration.
 
----
+- 🔭 I’m currently working on advanced responsive layouts.
+- 🌱 I’m currently exploring Next.js and backend architectures.
+- 💬 Ask me about HTML, CSS, JavaScript, React.js, and Tailwind CSS.
+- 📫 How to reach me: your.email@example.com
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on web projects  
-- 🌱 I’m learning React, Next.js & Backend  
-- ⚡ I love coding  
+### 🛠️ Tech Stack & Skills
+- **Languages:** HTML5, CSS3, JavaScript (ES6)
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Bootstrap
+- **Databases & Tools:** MongoDB, Git, GitHub, VS Code, NPM
 
----
-
-### 🚀 Skills:
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git" />
-</p>
-
----
-
-### 🌐 Connect with me:
-<p>
-<a href="https://github.com/sojibahmedshorif25-ai">GitHub</a> |
-<a href="https://www.linkedin.com/in/sojib-ahmed-shorif">LinkedIn</a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=sojibahmedshorif25-ai&show_icons=true" />
-</p>
+### 🔗 Connect with me
+[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL)
