@@ -2,16 +2,9 @@
 
 All notable changes documented here.
 
-## [1.0.0] - 2026-07-30
+## [1.0.0] - 2026-08-07
 
 ### Added
 - Initial project setup
 - Core features implemented
 - Documentation added
-
-## [1.14.113] - 2026-07-31
-
-### Changed
-- Improved performance and stability
-- Refactored core components
-- Enhanced error handling
