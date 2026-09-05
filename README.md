@@ -1,72 +1,65 @@
 <div align="center">
 
-# 👋 Hi, I'm Sojib Ahmed
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sojib+Ahmed;Full+Stack+Developer+%7C+MERN+Stack+Expert" alt="Typing SVG" />
 
-### **Frontend Web Developer / MERN Stack Learner**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sojib_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-two-40.vercel.app)
-[![Email](https://img.shields.io/badge/Email-sojibahmedshorif25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Building+Beautiful+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-A passionate frontend web developer focused on building responsive, interactive, and user-friendly web applications. Currently building projects with modern JavaScript frameworks and learning full-stack integration.
+<div align="center">
 
-- 🔭 I'm currently working on advanced responsive layouts.
-- 🌱 I'm currently exploring Next.js and backend architectures.
-- 💬 Ask me about HTML, CSS, JavaScript, React.js, and Tailwind CSS.
+[![GitHub](https://img.shields.io/badge/-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-two-40.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+[![Hire Me](https://img.shields.io/badge/-Hire_Me-10B981?style=for-the-badge&logo=slack&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🎯 About Me
+
+```javascript
+const sojib = {
+  title: "Full Stack Developer",
+  currentFocus: "Building scalable web applications",
+  education: "Programming Hero Batch 13",
+  location: "Kurigram, Bangladesh",
+  askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
+  funFact: "I love turning complex problems into simple, beautiful solutions"
+};
+```
+
+### 🔥 What I Bring to the Table
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**Languages**
+#### 💻 **Technical Skills**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white)
-
-</td>
-<td>
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-4-000000?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Database** | MongoDB, Mongoose |
+| **Tools** | Git, GitHub, VS Code, NPM, Vercel |
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
-**Databases & Tools**
+#### 🚀 **What I Do**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2F051A?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-
-</td>
-<td>
-
-**Specialties**
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-05F?style=flat&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+- 🎨 Build **pixel-perfect** responsive UIs
+- ⚡ Create **lightning-fast** web applications
+- 🤖 Integrate **AI features** (Claude, Gemini)
+- 📱 Develop **mobile-first** experiences
+- 🔐 Implement **secure** authentication systems
+- 📊 Build **admin dashboards** with analytics
 
 </td>
 </tr>
@@ -74,33 +67,155 @@ A passionate frontend web developer focused on building responsive, interactive,
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sojibahmedshorif25-ai&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmedshorif25-ai&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sojibahmedshorif25-ai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### 🏆 Featured Projects
+### 📊 GitHub Statistics
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| [Sojib-Ahmed-Portfolio](https://github.com/sojibahmedshorif25-ai/Sojib-Ahmed-Portfolio) | MERN + TypeScript + GSAP + Three.js | Premium portfolio with AI chatbot |
-| [JOB-STUDENT-TASK](https://github.com/sojibahmedshorif25-ai/JOB-STUDENT-TASK) | Next.js 16 + Express + MongoDB | Learning & job platform |
-| [Investprop-Ai](https://github.com/sojibahmedshorif25-ai/Investprop-Ai) | Next.js 14 + Claude AI | AI property investment platform |
-| [TypeScript-Project](https://github.com/sojibahmedshorif25-ai/TypeScript-Project) | Next.js 16 + TypeScript | Full-stack marketplace |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sojibahmedshorif25-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sojibahmedshorif25-ai&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmedshorif25-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sojibahmedshorif25-ai&theme=tokyonight&hide_border=true&width=48%" />
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🚀 [Sojib-Ahmed-Portfolio](https://github.com/sojibahmedshorif25-ai/Sojib-Ahmed-Portfolio)**
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+
+> Premium portfolio with AI chatbot, GSAP animations, Three.js 3D effects, and admin dashboard
+
+[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://sojib-ahmed-portfolio.vercel.app)
+
+</td>
+<td width="50%" align="center">
+
+**🎓 [SkillForge](https://github.com/sojibahmedshorif25-ai/JOB-STUDENT-TASK)**
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+
+> Full-stack learning platform with courses, quizzes, certificates, jobs, and interview prep
+
+[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://job-student-task.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**🏠 [InvestProp AI](https://github.com/sojibahmedshorif25-ai/Investprop-Ai)**
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat&logo=next.js&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-3.5-D97757?style=flat&logo=anthropic&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+
+> AI-powered property investment platform with Claude integration and portfolio management
+
+[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://investprop-ai.vercel.app)
+
+</td>
+<td width="50%" align="center">
+
+**🛒 [TypeMarket](https://github.com/sojibahmedshorif25-ai/TypeScript-Project)**
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-9-47A248?style=flat&logo=mongodb&logoColor=white)
+
+> Full-stack marketplace with admin dashboard, reviews, and role-based access
+
+[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://type-script-project-delta.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**💼 [Job Tracker](https://github.com/sojibahmedshorif25-ai/job-tracker)**
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-7-764ABC?style=flat&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+
+> MERN job portal with resume upload, applicant tracking, and Cloudinary integration
+
+</td>
+<td width="50%" align="center">
+
+**🚀 [StartupForge](https://github.com/sojibahmedshorif25-ai/startupforge)**
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+
+> Startup team builder with Stripe payments, RBAC, and admin dashboard
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💡 My Development Philosophy
+
+<div align="center">
+
+> *"Clean code, user-first design, and scalable architecture are not optional — they're the foundation of every project I build."*
+
+</div>
+
+---
+
+### 🔥 Recent Activity
+
+<!-- ![snake](https://raw.githubusercontent.com/sojibahmedshorif25-ai/sojibahmedshorif25-ai/output/github-contribution-grid-snake-dark.svg) -->
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sojibahmedshorif25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sojib_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
+[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-two-40.vercel.app)
+
+**📍 Rowmari, Kurigram, Bangladesh**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-sojibahmedshorif25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sojib_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
-[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
-
-**📍 Rowmari, Kurigram, Bangladesh**
+![Profile Views](https://komarev.com/ghpvc/?username=sojibahmedshorif25-ai&color=06B6D4&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
