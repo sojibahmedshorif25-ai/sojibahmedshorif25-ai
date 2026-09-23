@@ -49,9 +49,10 @@ const sojib = {
 |----------|-------------|
 | **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
 | **Frontend** | React.js, Next.js, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Database** | MongoDB, Mongoose |
-| **Tools** | Git, GitHub, VS Code, NPM, Vercel |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, Firebase Auth, Google OAuth |
+| **Database** | MongoDB, Mongoose, Cloudinary |
+| **Payments & AI** | Stripe, Claude AI, Gemini API |
+| **Tools** | Git, GitHub, VS Code, NPM, Vercel, Render, MongoDB Atlas |
 
 </td>
 <td width="50%" valign="top">
@@ -130,9 +131,10 @@ const sojib = {
 
 **🎓 [SkillForge](https://github.com/sojibahmedshorif25-ai/JOB-STUDENT-TASK)**
 
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 > Full-stack learning platform with courses, quizzes, certificates, jobs, and interview prep
 
@@ -145,7 +147,7 @@ const sojib = {
 
 **🏠 [InvestProp AI](https://github.com/sojibahmedshorif25-ai/Investprop-Ai)**
 
-![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-3.5-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -158,13 +160,13 @@ const sojib = {
 
 **🛒 [TypeMarket](https://github.com/sojibahmedshorif25-ai/TypeScript-Project)**
 
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9-47A248?style=flat&logo=mongodb&logoColor=white)
 
 > Full-stack marketplace with admin dashboard, reviews, and role-based access
 
-[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://type-script-project-delta.vercel.app)
+[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://type-script-project-nine.vercel.app)
 
 </td>
 </tr>
@@ -174,7 +176,7 @@ const sojib = {
 **💼 [Job Tracker](https://github.com/sojibahmedshorif25-ai/job-tracker)**
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-7-764ABC?style=flat&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
 
 > MERN job portal with resume upload, applicant tracking, and Cloudinary integration
@@ -187,16 +189,38 @@ const sojib = {
 **🚀 [StartupForge](https://github.com/sojibahmedshorif25-ai/startupforge)**
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4-000000?style=flat&logo=express&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
 
-> Startup team builder with Stripe payments, RBAC, and admin dashboard
+> Startup team builder with Google OAuth, better-auth sessions, and AI-powered features
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai/startupforge)
 
 </td>
 </tr>
 </table>
+
+---
+
+### 🛣️ My Journey
+
+| Period | Milestone |
+|--------|-----------|
+| Jan 2026 – Aug 2026 | 🎓 **Complete Web Development** — Programming Hero Batch 13, 8-month intensive MERN program |
+| Jan – Jun 2026 | 🧱 **Foundations → Full Stack** — HTML/CSS/JS → React → Node.js/Express → MongoDB, month by month |
+| Jul – Aug 2026 | 🤖 **Auth & AI** — JWT, Firebase, Google OAuth, RBAC · Claude/Gemini AI chatbots & AI features |
+| Now | 🚀 **Building production-ready apps** — 10+ projects shipped, open to Full-time / Freelance / Remote |
+
+---
+
+### 🧰 What I Can Build For You
+
+| Service | Includes |
+|---------|----------|
+| 🌐 **Full-Stack Web Apps** | React + Node.js/Express + MongoDB, deployed on Vercel/Render — e.g. SkillForge, TypeMarket |
+| 🔌 **REST APIs & Auth** | Secure JWT / Firebase / Google OAuth, role-based access, validation & error handling |
+| 🤖 **AI Integration** | Claude/Gemini chat assistants, AI scoring & recommendations — e.g. InvestProp AI |
+| 📊 **Dashboards & Workflows** | Admin panels, analytics, application tracking, file uploads via Cloudinary/Firebase |
 
 ---
 
