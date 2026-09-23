@@ -15,6 +15,7 @@
 [![GitHub](https://img.shields.io/badge/-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sojib-ahmed-developer.vercel.app)
+[![Resume](https://img.shields.io/badge/-Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sojib-ahmed-developer.vercel.app/resume.pdf)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif998@gmail.com)
 [![Hire Me](https://img.shields.io/badge/-Hire_Me-10B981?style=for-the-badge&logo=slack&logoColor=white)](mailto:sojibahmedshorif998@gmail.com)
 
@@ -28,6 +29,8 @@
 const sojib = {
   title: "Fullstack Developer",
   scope: ["Frontend", "Backend", "REST APIs & Auth", "Databases", "AI Integration", "Deployment"],
+  coreStack: ["React", "Node.js", "Express", "MongoDB", "TypeScript"],
+  currentlyBuilding: "Production fullstack apps with AI integration",
   currentFocus: "Building end-to-end web applications",
   education: "Programming Hero Batch 13",
   location: "Rangpur, Bangladesh (Rowmari, Kurigram)",
@@ -264,5 +267,6 @@ const sojib = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sojibahmedshorif25-ai&color=06B6D4&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sojibahmedshorif25-ai?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED)
 
 </div>
