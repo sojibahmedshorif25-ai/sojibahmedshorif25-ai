@@ -2,7 +2,7 @@
 
 <img src="github-header-banner.png" alt="Sojib Ahmed — Full Stack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sojib+Ahmed;Full+Stack+Developer+%7C+MERN+Stack+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sojib+Ahmed;Full+Stack+Developer+%7C+Frontend+to+Backend" alt="Typing SVG" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Building+Beautiful+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 
@@ -26,8 +26,9 @@
 
 ```javascript
 const sojib = {
-  title: "Full Stack Developer",
-  currentFocus: "Building scalable web applications",
+  title: "Fullstack Developer",
+  scope: ["Frontend", "Backend", "REST APIs & Auth", "Databases", "AI Integration", "Deployment"],
+  currentFocus: "Building end-to-end web applications",
   education: "Programming Hero Batch 13",
   location: "Rangpur, Bangladesh (Rowmari, Kurigram)",
   availableFor: ["Full-time", "Freelance", "Remote"],
@@ -179,7 +180,7 @@ const sojib = {
 ![Express](https://img.shields.io/badge/Express-5-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
 
-> MERN job portal with resume upload, applicant tracking, and Cloudinary integration
+> Full-stack job portal with resume upload, applicant tracking, and Cloudinary integration
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai/job-tracker)
 
@@ -206,7 +207,7 @@ const sojib = {
 
 | Period | Milestone |
 |--------|-----------|
-| Jan 2026 – Aug 2026 | 🎓 **Complete Web Development** — Programming Hero Batch 13, 8-month intensive MERN program |
+| Jan 2026 – Aug 2026 | 🎓 **Complete Web Development** — Programming Hero Batch 13, 8-month intensive full-stack program (Frontend → Backend → Database → Deployment) |
 | Jan – Jun 2026 | 🧱 **Foundations → Full Stack** — HTML/CSS/JS → React → Node.js/Express → MongoDB, month by month |
 | Jul – Aug 2026 | 🤖 **Auth & AI** — JWT, Firebase, Google OAuth, RBAC · Claude/Gemini AI chatbots & AI features |
 | Now | 🚀 **Building production-ready apps** — 10+ projects shipped, open to Full-time / Freelance / Remote |
