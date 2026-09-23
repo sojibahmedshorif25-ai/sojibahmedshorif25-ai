@@ -226,6 +226,22 @@ const sojib = {
 | 🤖 **AI Integration** | Claude/Gemini chat assistants, AI scoring & recommendations — e.g. InvestProp AI |
 | 📊 **Dashboards & Workflows** | Admin panels, analytics, application tracking, file uploads via Cloudinary/Firebase |
 
+<div align="center">
+
+🎨 Frontend → 🔌 REST API → 🔐 Auth → 🗄️ Database → ☁️ Deploy — *I own the whole chain.*
+
+</div>
+
+---
+
+### 🏅 Certifications & Education
+
+| Credential | Details |
+|------------|---------|
+| 🎓 **Complete Web Development** | Programming Hero · Batch 13 · Jan – Aug 2026 · Frontend → Backend → Database → Deployment |
+| 📜 **SSC (Science)** | Rowmari High School · GPA 4.50/5.00 |
+| 📖 **HSC (Science)** | Running — alongside full-time building |
+
 ---
 
 ### 💡 My Development Philosophy
