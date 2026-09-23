@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="github-header-banner.png" alt="Sojib Ahmed — Full Stack Developer" width="100%" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sojib+Ahmed;Full+Stack+Developer+%7C+MERN+Stack+Expert" alt="Typing SVG" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Building+Beautiful+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
@@ -12,9 +14,9 @@
 
 [![GitHub](https://img.shields.io/badge/-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-two-40.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
-[![Hire Me](https://img.shields.io/badge/-Hire_Me-10B981?style=for-the-badge&logo=slack&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sojib-ahmed-developer.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif998@gmail.com)
+[![Hire Me](https://img.shields.io/badge/-Hire_Me-10B981?style=for-the-badge&logo=slack&logoColor=white)](mailto:sojibahmedshorif998@gmail.com)
 
 </div>
 
@@ -27,7 +29,9 @@ const sojib = {
   title: "Full Stack Developer",
   currentFocus: "Building scalable web applications",
   education: "Programming Hero Batch 13",
-  location: "Kurigram, Bangladesh",
+  location: "Rangpur, Bangladesh (Rowmari, Kurigram)",
+  availableFor: ["Full-time", "Freelance", "Remote"],
+  responseTime: "within 2 hours",
   askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
   funFact: "I love turning complex problems into simple, beautiful solutions"
 };
@@ -65,6 +69,15 @@ const sojib = {
 </tr>
 </table>
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vercel&theme=dark)](https://skillicons.dev)
+
+</div>
+
+> ### 💼 Open to Work — Full-time | Freelance | Remote
+> 📧 **sojibahmedshorif998@gmail.com** · 📱 **+880 1942791004** ([WhatsApp](https://wa.me/8801942791004)) · ⏱️ Replies within 2 hours · 📄 [Download CV](https://sojib-ahmed-developer.vercel.app/resume.pdf) · 🌐 [Live Portfolio](https://sojib-ahmed-developer.vercel.app)
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -82,7 +95,7 @@ const sojib = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sojibahmedshorif25-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sojibahmedshorif25-ai&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=sojibahmedshorif25-ai&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -110,7 +123,7 @@ const sojib = {
 
 > Premium portfolio with AI chatbot, GSAP animations, Three.js 3D effects, and admin dashboard
 
-[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://sojib-ahmed-portfolio.vercel.app)
+[![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://sojib-ahmed-developer.vercel.app)
 
 </td>
 <td width="50%" align="center">
@@ -166,6 +179,8 @@ const sojib = {
 
 > MERN job portal with resume upload, applicant tracking, and Cloudinary integration
 
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai/job-tracker)
+
 </td>
 <td width="50%" align="center">
 
@@ -176,6 +191,8 @@ const sojib = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
 
 > Startup team builder with Stripe payments, RBAC, and admin dashboard
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai/startupforge)
 
 </td>
 </tr>
@@ -195,7 +212,11 @@ const sojib = {
 
 ### 🔥 Recent Activity
 
-<!-- ![snake](https://raw.githubusercontent.com/sojibahmedshorif25-ai/sojibahmedshorif25-ai/output/github-contribution-grid-snake-dark.svg) -->
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/sojibahmedshorif25-ai/sojibahmedshorif25-ai/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -203,12 +224,13 @@ const sojib = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sojibahmedshorif25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sojibahmedshorif998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sojib_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
 [![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-two-40.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sojib-ahmed-developer.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+880_1942791004-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801942791004)
 
-**📍 Rowmari, Kurigram, Bangladesh**
+**📍 Rangpur, Bangladesh (Rowmari, Kurigram) · ⏱️ Replies within 2 hours**
 
 </div>
 
