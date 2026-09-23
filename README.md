@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="github-header-banner.png" alt="Sojib Ahmed — Full Stack Developer" width="100%" />
+<img src="github-header-banner.png" alt="Sojib Ahmed — Fullstack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sojib+Ahmed;Full+Stack+Developer+%7C+Frontend+to+Backend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi,+I'm+Sojib+Ahmed;Fullstack+Developer+%7C+Frontend+to+Backend" alt="Typing SVG" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Building+Beautiful+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 
@@ -140,7 +140,7 @@ const sojib = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-> Full-stack learning platform with courses, quizzes, certificates, jobs, and interview prep
+> Fullstack learning platform with courses, quizzes, certificates, jobs, and interview prep
 
 [![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://job-student-task.vercel.app)
 
@@ -168,7 +168,7 @@ const sojib = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9-47A248?style=flat&logo=mongodb&logoColor=white)
 
-> Full-stack marketplace with admin dashboard, reviews, and role-based access
+> Fullstack marketplace with admin dashboard, reviews, and role-based access
 
 [![Live](https://img.shields.io/badge/Live-Demo-10B981?style=flat&logo=vercel&logoColor=white)](https://type-script-project-nine.vercel.app)
 
@@ -183,7 +183,7 @@ const sojib = {
 ![Express](https://img.shields.io/badge/Express-5-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?style=flat&logo=mongodb&logoColor=white)
 
-> Full-stack job portal with resume upload, applicant tracking, and Cloudinary integration
+> Fullstack job portal with resume upload, applicant tracking, and Cloudinary integration
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai/job-tracker)
 
@@ -210,8 +210,8 @@ const sojib = {
 
 | Period | Milestone |
 |--------|-----------|
-| Jan 2026 – Aug 2026 | 🎓 **Complete Web Development** — Programming Hero Batch 13, 8-month intensive full-stack program (Frontend → Backend → Database → Deployment) |
-| Jan – Jun 2026 | 🧱 **Foundations → Full Stack** — HTML/CSS/JS → React → Node.js/Express → MongoDB, month by month |
+| Jan 2026 – Aug 2026 | 🎓 **Complete Web Development** — Programming Hero Batch 13, 8-month intensive fullstack program (Frontend → Backend → Database → Deployment) |
+| Jan – Jun 2026 | 🧱 **Foundations → Fullstack** — HTML/CSS/JS → React → Node.js/Express → MongoDB, month by month |
 | Jul – Aug 2026 | 🤖 **Auth & AI** — JWT, Firebase, Google OAuth, RBAC · Claude/Gemini AI chatbots & AI features |
 | Now | 🚀 **Building production-ready apps** — 10+ projects shipped, open to Full-time / Freelance / Remote |
 
@@ -221,7 +221,7 @@ const sojib = {
 
 | Service | Includes |
 |---------|----------|
-| 🌐 **Full-Stack Web Apps** | React + Node.js/Express + MongoDB, deployed on Vercel/Render — e.g. SkillForge, TypeMarket |
+| 🌐 **Fullstack Web Apps** | React + Node.js/Express + MongoDB, deployed on Vercel/Render — e.g. SkillForge, TypeMarket |
 | 🔌 **REST APIs & Auth** | Secure JWT / Firebase / Google OAuth, role-based access, validation & error handling |
 | 🤖 **AI Integration** | Claude/Gemini chat assistants, AI scoring & recommendations — e.g. InvestProp AI |
 | 📊 **Dashboards & Workflows** | Admin panels, analytics, application tracking, file uploads via Cloudinary/Firebase |
