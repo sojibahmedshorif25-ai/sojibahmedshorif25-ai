@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>👋 Hi, I'm <span style="color: #06B6D4;">Sojib Ahmed</span></h1>
-  <h3>⚡ Full-Stack Software Engineer | MERN & Next.js Specialist</h3>
+  <h3>⚡ Full-Stack Developer</h3>
   <p>Passionate about building scalable multi-vendor architectures, real-time telemetry systems, and AI-integrated web applications.</p>
 
   <!-- Clean Single-Label Badges -->
