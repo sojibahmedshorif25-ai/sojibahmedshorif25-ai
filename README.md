@@ -1,4 +1,4 @@
-# 💫 Sojib Ahmed | Full-Stack Software Engineer (MERN, Next.js & AI)
+# 💫 Sojib Ahmed | Full-Stack Developer
 
 <div align="center">
 
